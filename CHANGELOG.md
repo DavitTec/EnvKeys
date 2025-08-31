@@ -7,4 +7,21 @@ All notable changes to the [EnvKeys](https://github.com/DavitTec/EnvKeys) projec
 - GitHub: [https://github.com/DavitTec/EnvKeys](https://github.com/DavitTec/EnvKeys),
 
 ---
+## [unreleased]
+
+### ⚙️ Miscellaneous Tasks
+
+- Add CHANGELOG (94b228b…)
+
+
+### 💼 Other
+
+- Create LICENSE (9b4df0a…)
+
+- Create SECURITY.md (35f49e8…)
+
+- Create CODE_OF_CONDUCT.md (cdfe319…)
+
+- Create CONTRIBUTING.md (8adfa99…)
+
 
