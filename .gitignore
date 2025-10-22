@@ -8,3 +8,8 @@ tmp/*
 docs/hist/*
 archives/*
 cliff.toml
+vscode.sh
+tests
+requirements.yaml
+.vscode/
+
